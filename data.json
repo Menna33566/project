@@ -1,0 +1,613 @@
+[
+    {
+        "id": 1,
+        "first_name": "Kelley",
+        "clothing_type": "shirt",
+        "brand": "Adidas",
+        "image": "img/products/f1.jpg",
+        "price": 2843
+    },
+    {
+        "id": 2,
+        "first_name": "Aleen",
+        "clothing_type": "sweetshirt",
+        "brand": "H&M",
+        "image": "img/hudies/12.jfif",
+        "price": 2858
+    },
+    {
+        "id": 3,
+        "first_name": "Eugine",
+        "clothing_type": "dress",
+        "brand": "H&M",
+        "image": "img/dress/1.jfif",
+        "price": 2194
+    },
+    {
+        "id": 4,
+        "first_name": "Aidan",
+        "clothing_type": "blouse",
+        "brand": "H&M",
+        "image": "img/blouses/b7.jfif",
+        "price": 1929
+    },
+    {
+        "id": 5,
+        "first_name": "Harlin",
+        "clothing_type": "shirt",
+        "brand": "H&M",
+        "image": "img/products/f2.jpg",
+        "price": 1237
+    },
+    {
+        "id": 6,
+        "first_name": "Karlan",
+        "clothing_type": "blouse",
+        "brand": "H&M",
+        "image": "img/blouses/b(1).jfif",
+        "price": 1118
+    },
+    {
+        "id": 7,
+        "first_name": "Chrystal",
+        "clothing_type": "skirt",
+        "brand": "Nike",
+        "image": "img/skirt/1.jfif",
+        "price": 2044
+    },
+    {
+        "id": 8,
+        "first_name": "Chrystal",
+        "clothing_type": "skirt",
+        "brand": "Zara",
+        "image": "img/skirt/11.jfif",
+        "price": 4044
+    },
+    {
+        "id": 78,
+        "first_name": "Chrystal",
+        "clothing_type": "skirt",
+        "brand": "Adidas",
+        "image": "img/skirt/10.jfif",
+        "price": 3044
+    },
+    {
+        "id": 1017,
+        "first_name": "Chrystal",
+        "clothing_type": "skirt",
+        "brand": "Adidas",
+        "image": "img/skirt/14.jfif",
+        "price": 3044
+    },
+    {
+        "id": 57,
+        "first_name": "Chrystal",
+        "clothing_type": "skirt",
+        "brand": "Zara",
+        "image": "img/skirt/13.jfif",
+        "price": 3044
+    },
+    {
+        "id": 72,
+        "first_name": "Chrystal",
+        "clothing_type": "skirt",
+        "brand": "Adidas",
+        "image": "img/skirt/15.jfif",
+        "price": 5044
+    },
+    {
+        "id": 70,
+        "first_name": "Chrystal",
+        "clothing_type": "skirt",
+        "brand": "Adidas",
+        "image": "img/skirt/16.jfif",
+        "price": 3044
+    },
+    {
+        "id": 100,
+        "first_name": "Chrystal",
+        "clothing_type": "skirt",
+        "brand": "H&M",
+        "image": "img/skirt/17.jfif",
+        "price": 2024
+    },
+    {
+        "id": 8,
+        "first_name": "Kerwinn",
+        "clothing_type": "sweetshirt",
+        "brand": "Nike",
+        "image": "img/hudies/2.jfif",
+        "price": 580
+    },
+    {
+        "id": 9,
+        "first_name": "Baron",
+        "clothing_type": "sweetshirt",
+        "brand": "Zara",
+        "image": "img/hudies/3.jfif",
+        "price": 2302
+    },
+    {
+        "id": 10,
+        "first_name": "Janella",
+        "clothing_type": "dress",
+        "brand": "H&M",
+        "image": "img/dress/2.jfif",
+        "price": 1638
+    },
+    {
+        "id": 11,
+        "first_name": "Ebenezer",
+        "clothing_type": "blouse",
+        "brand": "Adidas",
+        "image": "img/blouses/b(3).jfif",
+        "price": 2068
+    },
+    {
+        "id": 12,
+        "first_name": "Madelaine",
+        "clothing_type": "skirt",
+        "brand": "Gucci",
+        "image": "img/skirt/2.jfif",
+        "price": 1557
+    },
+    {
+        "id": 13,
+        "first_name": "Gran",
+        "clothing_type": "sweetshirt",
+        "brand": "Zara",
+        "image": "img/hudies/6.jfif",
+        "price": 1574
+    },
+    {
+        "id": 14,
+        "first_name": "Enos",
+        "clothing_type": "sweetshirt",
+        "brand": "H&M",
+        "image": "img/hudies/33.jfif",
+        "price": 2510
+    },
+    {
+        "id": 15,
+        "first_name": "Quintilla",
+        "clothing_type": "skirt",
+        "brand": "Gucci",
+        "image": "img/skirt/3.jfif",
+        "price": 1622
+    },
+    {
+        "id": 16,
+        "first_name": "Bronnie",
+        "clothing_type": "sweetshirt",
+        "brand": "Nike",
+        "image": "img/hudies/7.jfif",
+        "price": 851
+    },
+    {
+        "id": 17,
+        "first_name": "Koo",
+        "clothing_type": "skirt",
+        "brand": "Nike",
+        "image": "img/skirt/4.jfif",
+        "price": 1940
+    },
+    {
+        "id": 18,
+        "first_name": "Bamby",
+        "clothing_type": "dress",
+        "brand": "H&M",
+        "image": "img/dress/3.jfif",
+        "price": 1912
+    },
+    {
+        "id": 19,
+        "first_name": "Somerset",
+        "clothing_type": "dress",
+        "brand": "Nike",
+        "image": "img/dress/4.jfif",
+        "price": 945
+    },
+    {
+        "id": 20,
+        "first_name": "Drake",
+        "clothing_type": "blouse",
+        "brand": "Nike",
+        "image": "img/blouses/b(5).jfif",
+        "price": 553
+    },
+    {
+        "id": 21,
+        "first_name": "Franciska",
+        "clothing_type": "dress",
+        "brand": "Nike",
+        "image": "img/dress/5.jfif",
+        "price": 2666
+    },
+    {
+        "id": 22,
+        "first_name": "Charmine",
+        "clothing_type": "shirt",
+        "brand": "Zara",
+        "image": "img/products/f6.jpg",
+        "price": 1286
+    },
+    {
+        "id": 23,
+        "first_name": "Fransisco",
+        "clothing_type": "skirt",
+        "brand": "H&M",
+        "image": "img/skirt/5.jfif",
+        "price": 2420
+    },
+    {
+        "id": 24,
+        "first_name": "Henrietta",
+        "clothing_type": "dress",
+        "brand": "Nike",
+        "image": "img/dress/6.jfif",
+        "price": 2273
+    },
+    {
+        "id": 25,
+        "first_name": "Portia",
+        "clothing_type": "blouse",
+        "brand": "Gucci",
+        "image": "img/blouses/b(4).jfif",
+        "price": 1354
+    },
+    {
+        "id": 26,
+        "first_name": "Nat",
+        "clothing_type": "sweetshirt",
+        "brand": "Adidas",
+        "image": "img/hudies/8.jfif",
+        "price": 514
+    },
+    {
+        "id": 27,
+        "first_name": "Phil",
+        "clothing_type": "skirt",
+        "brand": "H&M",
+        "image": "img/skirt/6.jfif",
+        "price": 2975
+    },
+    {
+        "id": 28,
+        "first_name": "Porter",
+        "clothing_type": "dress",
+        "brand": "Gucci",
+        "image": "img/dress/7.jfif",
+        "price": 536
+    },
+    {
+        "id": 29,
+        "first_name": "Dwain",
+        "clothing_type": "sweetshirt",
+        "brand": "Gucci",
+        "image": "img/hudies/9.jfif",
+        "price": 1384
+    },
+    {
+        "id": 30,
+        "first_name": "Annamarie",
+        "clothing_type": "skirt",
+        "brand": "H&M",
+        "image": "img/skirt/7.jfif",
+        "price": 1553
+    },
+    {
+        "id": 31,
+        "first_name": "Hadlee",
+        "clothing_type": "skirt",
+        "brand": "Adidas",
+        "image": "img/skirt/8.jfif",
+        "price": 878
+    },
+    {
+        "id": 32,
+        "first_name": "Clo",
+        "clothing_type": "dress",
+        "brand": "Nike",
+        "image": "img/dress/8.jfif",
+        "price": 902
+    },
+    {
+        "id": 33,
+        "first_name": "Moselle",
+        "clothing_type": "blouse",
+        "brand": "Zara",
+        "image": "img/blouses/b(6).jfif",
+        "price": 2638
+    },
+    {
+        "id": 34,
+        "first_name": "Merrie",
+        "clothing_type": "shirt",
+        "brand": "Zara",
+        "image": "img/products/n5.jpg",
+        "price": 761
+    },
+    {
+        "id": 44,
+        "first_name": "Merrie",
+        "clothing_type": "shirt",
+        "brand": "Adidas",
+        "image": "img/products/n8.jpg",
+        "price": 1761
+    },
+    {
+        "id": 54,
+        "first_name": "Merrie",
+        "clothing_type": "shirt",
+        "brand": "Zara",
+        "image": "img/products/f4.jpg",
+        "price": 961
+    },
+    {
+        "id": 64,
+        "first_name": "Merrie",
+        "clothing_type": "shirt",
+        "brand": "Zara",
+        "image": "img/products/f5.jpg",
+        "price": 761
+    },
+  
+    
+    {
+        "id": 74,
+        "first_name": "Merrie",
+        "clothing_type": "shirt",
+        "brand": "Zara",
+        "image": "img/products/n1.jpg",
+        "price": 241
+    },
+    {
+        "id": 7874,
+        "first_name": "Merrie",
+        "clothing_type": "shirt",
+        "brand": "Zara",
+        "image": "img/products/n9.jfif",
+        "price": 241
+    },
+
+    {
+        "id": 7074,
+        "first_name": "Merrie",
+        "clothing_type": "shirt",
+        "brand": "H&M",
+        "image": "img/products/n11.jfif",
+        "price": 241
+    },
+    {
+        "id": 7004,
+        "first_name": "Merrie",
+        "clothing_type": "shirt",
+        "brand": "H&M",
+        "image": "img/products/f1.jpg",
+        "price": 241
+    },
+    {
+        "id": 105004,
+        "first_name": "Merrie",
+        "clothing_type": "shirt",
+        "brand": "Zara",
+        "image": "img/products/f6.jpg",
+        "price": 241
+    },
+    {
+        "id": 84,
+        "first_name": "Merrie",
+        "clothing_type": "shirt",
+        "brand": "Adidas",
+        "image": "img/products/n2.jpg",
+        "price": 461
+    },
+    {
+        "id": 94,
+        "first_name": "Merrie",
+        "clothing_type": "shirt",
+        "brand": "H&M",
+        "image": "img/products/n4.jpg",
+        "price": 752
+    },
+    {
+        "id": 47,
+        "first_name": "Merrie",
+        "clothing_type": "shirt",
+        "brand": "Zara",
+        "image": "img/products/n3.jpg",
+        "price": 1402
+    },
+    {
+        "id": 55,
+        "first_name": "Merrie",
+        "clothing_type": "shirt",
+        "brand": "H&M",
+        "image": "img/products/f3.jpg",
+        "price": 1961
+    },
+  
+    {
+        "id": 135,
+        "first_name": "Kerby",
+        "clothing_type": "dress",
+        "brand": "Adidas",
+        "image": "img/dress/9.jfif",
+        "price": 2018
+    },
+    {
+        "id": 236,
+        "first_name": "Ardelis",
+        "clothing_type": "dress",
+        "brand": "Nike",
+        "image": "img/dress/10.jfif",
+        "price": 2304
+    },{
+        "id": 536,
+        "first_name": "Ardelis",
+        "clothing_type": "dress",
+        "brand": "Nike",
+        "image": "img/dress/11.jfif",
+        "price": 5253
+    },
+    {
+        "id": 436,
+        "first_name": "Ardelis",
+        "clothing_type": "dress",
+        "brand": "Nike",
+        "image": "img/dress/12.jfif",
+        "price": 1253
+    },
+    {
+        "id": 737,
+        "first_name": "Monroe",
+        "clothing_type": "sweetshirt",
+        "brand": "Nike",
+        "image": "img/hudies/10.jfif",
+        "price": 809
+    },
+    {
+        "id": 938,
+        "first_name": "Pavel",
+        "clothing_type": "sweetshirt",
+        "brand": "H&M",
+        "image": "img/hudies/13.jfif",
+        "price": 2541
+    },
+    {
+        "id": 318,
+        "first_name": "Pavel",
+        "clothing_type": "sweetshirt",
+        "brand": "Nike",
+        "image": "img/hudies/16.jfif",
+        "price": 251
+    },
+    {
+        "id": 328,
+        "first_name": "Pavel",
+        "clothing_type": "sweetshirt",
+        "brand": "H&M",
+        "image": "img/hudies/15.jfif",
+        "price": 5241
+    },
+    {
+        "id": 338,
+        "first_name": "Pavel",
+        "clothing_type": "sweetshirt",
+        "brand": "Gucci",
+        "image": "img/hudies/18.jfif",
+        "price": 2504
+    },
+    {
+        "id": 348,
+        "first_name": "Pavel",
+        "clothing_type": "sweetshirt",
+        "brand": "Adidas",
+        "image": "img/hudies/20.jfif",
+        "price": 541
+    },
+    {
+        "id": 358,
+        "first_name": "Pavel",
+        "clothing_type": "sweetshirt",
+        "brand": "H&M",
+        "image": "img/hudies/21.jfif",
+        "price": 2741
+    },
+    {
+        "id": 378,
+        "first_name": "Pavel",
+        "clothing_type": "sweetshirt",
+        "brand": "H&M",
+        "image": "img/hudies/19.jfif",
+        "price": 2541
+    },
+    {
+        "id": 379,
+        "first_name": "Erskine",
+        "clothing_type": "skirt",
+        "brand": "H&M",
+        "image": "img/skirt/9.jfif",
+        "price": 1877
+    },
+    {
+        "id": 40,
+        "first_name": "Anni",
+        "clothing_type": "blouse",
+        "brand": "Adidas",
+        "image": "img/blouses/b(9).jfif",
+        "price": 1479
+    },
+    {
+        "id": 440,
+        "first_name": "Anni",
+        "clothing_type": "blouse",
+        "brand": "Adidas",
+        "image": "img/blouses/b11.jfif",
+        "price": 1699
+    },
+    {
+        "id": 430,
+        "first_name": "Anni",
+        "clothing_type": "blouse",
+        "brand": "Gucci",
+        "image": "img/blouses/b12.jfif",
+        "price": 1499
+    },
+    {
+        "id": 420,
+        "first_name": "Anni",
+        "clothing_type": "blouse",
+        "brand": "Adidas",
+        "image": "img/blouses/b13.jfif",
+        "price": 1639
+    },
+    {
+        "id": 410,
+        "first_name": "Anni",
+        "clothing_type": "blouse",
+        "brand": "Adidas",
+        "image": "img/blouses/b14.jfif",
+        "price": 1629
+    },
+    {
+        "id": 470,
+        "first_name": "Anni",
+        "clothing_type": "blouse",
+        "brand": "H&M",
+        "image": "img/blouses/b15.jfif",
+        "price": 1619
+    },
+    {
+        "id": 540,
+        "first_name": "Anni",
+        "clothing_type": "blouse",
+        "brand": "Adidas",
+        "image": "img/blouses/b22.jfif",
+        "price": 1692
+    },
+    {
+        "id": 170,
+        "first_name": "Anni",
+        "clothing_type": "blouse",
+        "brand": "Gucci",
+        "image": "img/blouses/b21.jfif",
+        "price": 299
+    },
+    {
+        "id": 180,
+        "first_name": "Anni",
+        "clothing_type": "blouse",
+        "brand": "H&M",
+        "image": "img/blouses/b18.jfif",
+        "price": 1269
+    },
+    {
+        "id": 1440,
+        "first_name": "Anni",
+        "clothing_type": "blouse",
+        "brand": "Adidas",
+        "image": "img/blouses/b13.jfif",
+        "price": 5939
+    }
+]
