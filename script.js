@@ -28,4 +28,4 @@ function printLetterByLetter(word)
         
     }, 500);
 }
-printLetterByLetter();
+//printLetterByLetter();
