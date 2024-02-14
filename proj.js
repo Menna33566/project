@@ -48,6 +48,13 @@ function storeData() {
     let uname = document.getElementById('name').value;
     let email = document.getElementById('mail').value;
 
+	if (uname.trim() === '' && email.trim() === '') {
+		window.location.href="proj.html" ;
+		return;
+	  }
+	
+	  
+	
     localStorage.setItem('name', uname);
     localStorage.setItem('email', email);
 

@@ -32,7 +32,7 @@ function get_data() {
                         pro.setAttribute("class" , "pro");
                         id_link .setAttribute("href","product.html?id="+element.id) ;
                         id_link.innerText="see this product" ;
-                        id_link.innerText=element.price;
+                        // id_link.innerText=element.price;
 
                         // price.innerText  = element.price;
                         price.appendChild(id_link) ;
@@ -57,11 +57,12 @@ function get_data() {
 
                         shop.setAttribute("href" , "#");
                         shop.innerHTML = "<i class='fa-solid fa-cart-shopping cart'></i>";
-
+                        
                         des.appendChild(brand);
                         des.appendChild(clothe);
                         des.appendChild(stars);
                         des.appendChild(price);
+                        des.appendChild(id_link) ;
                         // des.appendChild(id_link);
 
                         pro.appendChild(des);
@@ -73,6 +74,8 @@ function get_data() {
                     pro.setAttribute("class" , "pro");
 
                     id_link .setAttribute("href","product.html?id="+element.id) ;
+                    // id_link.innerText="see this product" ;
+                    id_link.innerText=element.price;
                     id_link.innerText="see this product" ;
 
                     price.innerText  = element.price;
